@@ -1,0 +1,12 @@
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\bin\Debug\System Administration.exe.config
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\bin\Debug\System Administration.exe
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\bin\Debug\System Administration.pdb
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\obj\Debug\System Administration.csprojResolveAssemblyReference.cache
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\obj\Debug\System_Administration.Properties.Resources.resources
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\obj\Debug\System Administration.csproj.GenerateResource.Cache
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\obj\Debug\System Administration.exe
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\obj\Debug\System Administration.pdb
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\obj\Debug\System_Administration.frmLogin.resources
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Senac - Administration\System Administration\obj\Debug\System_Administration.frmPrincipal.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Senac - Administration\System Administration\obj\Debug\System_Administration.frmGerFunc.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Senac - Administration\System Administration\obj\Debug\System_Administration.frmGerPro.resources

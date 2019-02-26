@@ -1,0 +1,9 @@
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Solução5\Aula5\bin\Debug\Aula5.exe.config
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Solução5\Aula5\obj\Debug\Aula5.csprojResolveAssemblyReference.cache
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Solução5\Aula5\obj\Debug\Aula5.Form1.resources
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Solução5\Aula5\obj\Debug\Aula5.Properties.Resources.resources
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Solução5\Aula5\obj\Debug\Aula5.csproj.GenerateResource.Cache
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Solução5\Aula5\bin\Debug\Aula5.exe
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Solução5\Aula5\bin\Debug\Aula5.pdb
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Solução5\Aula5\obj\Debug\Aula5.exe
+c:\users\johnatan.asantos\documents\visual studio 2015\Projects\Solução5\Aula5\obj\Debug\Aula5.pdb

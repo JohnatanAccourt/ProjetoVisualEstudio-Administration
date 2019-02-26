@@ -1,0 +1,9 @@
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csprojResolveAssemblyReference.cache
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.Properties.Resources.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.GenerateResource.Cache
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.fmrEscolha.resources

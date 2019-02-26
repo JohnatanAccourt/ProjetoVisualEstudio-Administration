@@ -1,0 +1,12 @@
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\ProjetoTI92\PrimeiraApp\bin\Debug\PrimeiraApp.exe.config
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\ProjetoTI92\PrimeiraApp\bin\Debug\PrimeiraApp.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\ProjetoTI92\PrimeiraApp\bin\Debug\PrimeiraApp.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\ProjetoTI92\PrimeiraApp\obj\Debug\PrimeiraApp.csprojResolveAssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\ProjetoTI92\PrimeiraApp\obj\Debug\PrimeiraApp.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\ProjetoTI92\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.GenerateResource.Cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\ProjetoTI92\PrimeiraApp\obj\Debug\PrimeiraApp.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\ProjetoTI92\PrimeiraApp\obj\Debug\PrimeiraApp.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\ProjetoTI92\PrimeiraApp\obj\Debug\PrimeiraApp.frmPrimeiraApp.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\ProjetoTI92\PrimeiraApp\bin\Debug\PrimeiraApp.exe.config
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\ProjetoTI92\PrimeiraApp\obj\Debug\PrimeiraApp.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\ProjetoTI92\PrimeiraApp\obj\Debug\PrimeiraApp.pdb

@@ -1,0 +1,22 @@
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.frmCalculadora.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.frmEstados.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.frmNotas.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.GenerateResource.Cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.csprojResolveAssemblyReference.cache
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.csprojResolveAssemblyReference.cache
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.frmCalculadora.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.frmEstados.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.frmNotas.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.Properties.Resources.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.GenerateResource.Cache

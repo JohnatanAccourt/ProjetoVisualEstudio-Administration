@@ -1,0 +1,9 @@
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.Cache
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.csprojResolveAssemblyReference.cache
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\ProjetoCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.frmFolhaPagamento.resources

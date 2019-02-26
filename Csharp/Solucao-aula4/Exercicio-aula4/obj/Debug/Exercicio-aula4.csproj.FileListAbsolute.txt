@@ -1,0 +1,9 @@
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\Solucao-aula4\Exercicio-aula4\bin\Debug\Exercicio-aula4.exe.config
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\Solucao-aula4\Exercicio-aula4\bin\Debug\Exercicio-aula4.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\Solucao-aula4\Exercicio-aula4\bin\Debug\Exercicio-aula4.pdb
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\Solucao-aula4\Exercicio-aula4\obj\Debug\Exercicio_aula4.Form1.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\Solucao-aula4\Exercicio-aula4\obj\Debug\Exercicio_aula4.Properties.Resources.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\Solucao-aula4\Exercicio-aula4\obj\Debug\Exercicio-aula4.csproj.GenerateResource.Cache
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\Solucao-aula4\Exercicio-aula4\obj\Debug\Exercicio-aula4.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\Solucao-aula4\Exercicio-aula4\obj\Debug\Exercicio-aula4.pdb
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\Solucao-aula4\Exercicio-aula4\obj\Debug\Exercicio-aula4.csprojResolveAssemblyReference.cache

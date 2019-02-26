@@ -1,0 +1,9 @@
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\empresaABC\frmEstados.cs\bin\Debug\frmEstados.cs.exe.config
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\empresaABC\frmEstados.cs\bin\Debug\frmEstados.cs.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\empresaABC\frmEstados.cs\bin\Debug\frmEstados.cs.pdb
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\empresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.csprojResolveAssemblyReference.cache
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\empresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.Form1.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\empresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.Properties.Resources.resources
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\empresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.csproj.GenerateResource.Cache
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\empresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.exe
+C:\Users\johnatan.asantos\Documents\Visual Studio 2015\Projects\Csharp\empresaABC\frmEstados.cs\obj\Debug\frmEstados.cs.pdb
